@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="swing-time-picker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/swing-time-picker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
